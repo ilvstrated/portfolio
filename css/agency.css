@@ -653,6 +653,7 @@ aside.clients img {
 }
 
 section#skills {
+    background-color: #222;
     background-image: url(../img/bg-image.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -667,6 +668,7 @@ section#portfolio {
 }
 
 section#photography {
+    background-color: #883000;
     background-image: url(../img/bg-image.png);
     background-position: center;
     background-repeat: no-repeat;
