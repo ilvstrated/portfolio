@@ -654,7 +654,7 @@ aside.clients img {
 
 section#skills {
     background-color: #222;
-    background-image: url(../img/bg-image.jpg);
+    background-image: url(../img/bg-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -669,14 +669,14 @@ section#portfolio {
 
 section#photography {
     background-color: #222;
-    background-image: url(../img/bg-image.jpg);
+    background-image: url(../img/bg-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.jpg);
+    background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
