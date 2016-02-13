@@ -653,14 +653,13 @@ aside.clients img {
 }
 
 section#skills {
-    background-color: #222;
     background-image: url(../img/bg-image.jpg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;;
 }
 
 section#about {
-    background-color: #c25200;
+    background-color: #f5af35;
 }
 
 section#portfolio {
@@ -671,14 +670,14 @@ section#photography {
     background-color: #222;
     background-image: url(../img/bg-image.jpg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;;
 }
 
 section#contact {
     background-color: #222;
     background-image: url(../img/bg-image.jpg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;;
 }
 
 section#contact .section-heading {
